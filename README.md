@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">Hi there! I'm Md. Younus Islam, a passionate Front-End Developer, from Bangladesh. I love building interactive, user-friendly web experiences. Expertise in HTML, CSS, Javascript, React, and modern UI frameworks. I'm always excited to learn new tools and frameworks and I believe I am consistent and precise in my work.</h4>
+<h4 align="center">Hi there! I'm Md. Younus Islam, a passionate Front-End Developer, from Bangladesh. I love building interactive, user-friendly web experiences. Expertise in HTML, CSS, Javascript, React, Tailwind-css and modern UI frameworks. I'm always excited to learn new tools and frameworks and I believe I am consistent and precise in my work.</h4>
 
 ###
 

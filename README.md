@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://images.pexels.com/photos/16129724/pexels-photo-16129724/free-photo-of-man-working-on-computers-coding.jpeg?auto=compress&cs=tinysrgb&w=600/"  />
+  <img src="https://i.ibb.co.com/bjDNbGWc/Black-Modern-Personal-Linked-In-Banner.png"  />
 </div>
 
 ###

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Md. Younus Islam <br>and I'm a Front-end Developer.</h1>
+<h1 align="center">Hi 👋! My name is Md. Younus Islam <br>and I'm a <span color="red">Front-End Web Developer</span>.</h1>
 
 ###
 
@@ -62,7 +62,9 @@
   <a href="https://x.com/Younus483" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <img href="https://www.linkedin.com" target="_blank" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -79,5 +81,3 @@
     </a>
   <img src="https://github-profile-trophy.vercel.app?username=younus-always&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
